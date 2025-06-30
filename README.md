@@ -42,7 +42,7 @@ Place the project inside your XAMPP htdocs folder or LAMP www directory.
 ### 3. Configure the Database
 Start Apache and MySQL using XAMPP or your preferred stack.
 
-Open phpMyAdmin and import the provided exam_portal.sql file.
+Open phpMyAdmin and import the provided examportal.sql file.
 
 Update database credentials in includes/db_connect.php if necessary:
 // includes/db_connect.php
